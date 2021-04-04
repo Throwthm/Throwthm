@@ -1,1 +1,1 @@
-- Hello i am Throwthm, my interest is in C# and Lua.
+👋 Hello I am Throwthm, my interests are C# and Lua. 
